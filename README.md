@@ -53,13 +53,7 @@ This project is focused on building a Blackjack game in C++ and integrating a ma
 
 ### Steps to Run the Game
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/blackjack-autoplayer.git
-   ```
 2. Navigate to the project directory:
-   ```bash
-   cd blackjack-autoplayer
-   ```
 3. Compile the C++ game:
    ```bash
    g++ blackjack.cpp -o blackjack
