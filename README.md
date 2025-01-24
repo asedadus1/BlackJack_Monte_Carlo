@@ -88,18 +88,8 @@ This project is focused on building a Blackjack game in C++ and integrating a ma
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
-
----
-
 ## Contact
 For questions or collaboration opportunities, please contact:
 - **Name**: Ased Adus
-- **Email**: adus001@csusm.edu
+- **Email**: asedadus1@gmail.com
 
